@@ -4,10 +4,9 @@
 
 ### 以麦基的故事结构思维解构你的创作与人生叙事
 
-[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude_Code-Skill-8A2BE2)](https://claude.com/claude-code)
-[![Nuwa](https://img.shields.io/badge/女娲.skill-人物视角-orange)](https://github.com/Panmax/awesome-nuwa)
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 </div>
 
 ---
@@ -85,10 +84,17 @@ mckee-skill/
 
 更多人物 Skill 请查看 [Awesome 女娲.skill](https://github.com/Panmax/awesome-nuwa)
 
+
+## 更多 Skill
+
+更多人物 Skill 请查看 [Awesome 女娲.skill](https://github.com/Panmax/awesome-nuwa)。
+
 ---
 
 <div align="center">
 
-MIT License | Copyright (c) 2026 Panmax
+MIT License
+
+Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
 
 </div>
